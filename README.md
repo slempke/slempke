@@ -1,7 +1,6 @@
-Hey! 👋
-
 <details><summary>🐲</summary>
+  <br>
   <a href="https://slempke.dev/">
-    <img width="800" heigth="200" src="https://raw.githubusercontent.com/slempke/slempke/main/nacho.gif"></img>
+    <img width="400" src="https://raw.githubusercontent.com/slempke/slempke/main/nacho.gif"></img>
   </a>
 </details>
